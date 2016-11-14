@@ -1,0 +1,163 @@
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 13px !important;
+    }
+    .container_16 {
+        width: 100% !important;
+    }
+    
+    .container_16 .grid_12 {
+        width: 100% !important;
+    }
+    
+    .grid_4.logo_brand {
+        width: 30% !important;
+        float: left;
+    }
+    
+    .grid_12.section-top-bar {
+        width: 55% !important;
+        float: right;
+    }
+    .grid_4.logo_brand img {
+        max-height: 35px !important;
+    }
+    
+    .grid_4.side_menu {
+        width: 100% !important;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        padding-left: 10px;
+    }
+    
+    .grid_16.text-footer {
+        width: 90%;
+        text-align: center;
+    }
+    
+    .container_16 .grid_6 {
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+    
+    #main {
+        padding-right: 20px;
+    }
+    
+    .steps {
+        display: none;
+    }
+    
+    .h-block .splitter {
+        background: #fff !important;
+    }
+    
+    
+    .container_16 .suffix_2
+    {
+    	margin:0 auto !important;
+    }
+    
+    .container_12 .grid_6, .container_16 .grid_8 {
+        width: 100% !important;
+    }
+    
+    input.form-domain {
+        width: 70% !important;
+    }
+    .dashboard .box {
+        margin-bottom: 10px !important;
+    }
+    
+    .dashboard .box h2 {
+        margin: 0px 0px 5px 0px;
+    }
+    
+    input.bb-button.bb-button-red.bb-button-big {
+        margin: -70px 0 0 70px !important;
+    }
+}
+
+.h-block-header span.big-light-icon {
+    right: 3px;
+    top: 3px;
+}
+
+.bb-button .dark-icon,.bb-button .light-icon {
+    padding-right: 15px !important;
+    padding-bottom: 10px !important;
+}
+
+.tabs .activeTab span.dark-icon.i-check {
+    padding-left: 0px !important;
+    padding-right: 15px !important;
+    line-height: 4px !important;
+}
+
+.tabs span.dark-icon.i-uncheck {
+    padding-left: 0px !important;
+    padding-right: 15px !important;
+    line-height: 4px !important;
+}
+
+.dashboard .box {
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+.dashboard .box:hover {
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+    border-color: #fff;
+    background-color: #fff;
+}
+
+div#register-new-account h2 {
+    margin-top: 5px;
+}
+
+.big-dark-icon.i-order:before { content: "\f291"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-profile:before { content: "\f2bb"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-email:before { content: "\f0e0"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-blog:before { content: "\f0a1"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-kb:before { content: "\f02d"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-logout:before { content: "\f011"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-cart:before { content: "\f07a"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+.big-dark-icon.i-home:before { content: "\f015"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 0; }
+
+.big-light-icon.i-profile:before { content: "\f007"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+.big-light-icon.i-blog:before { content: "\f044"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+.big-light-icon.i-kb:before { content: "\f02d"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+.big-light-icon.i-forum:before { content: "\f086"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+.big-light-icon.i-payment:before { content: "\f283"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 23px; padding-right: 0.5em; position: absolute; left: 5px; top: 4px;}
+.big-light-icon.i-email:before { content: "\f0e0"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+.big-light-icon.i-invoice:before { content: "\f15c"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 6px; }
+.big-light-icon.i-services:before { content: "\f085"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 3px; }
+.big-light-icon.i-support:before { content: "\f1cd"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+.big-light-icon.i-contacts:before { content: "\f098"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 30px; padding-right: 0.5em; position: absolute; left: 5px; }
+
+.dark-icon.i-drag:before { content: "\f03a"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-profile:before { content: "\f2bb"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-invoice:before { content: "\f15c"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-services:before { content: "\f085"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-support:before { content: "\f1cd"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-order:before { content: "\f291"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-email:before { content: "\f0e0"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-payment:before { content: "\f283"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 13px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-contacts:before { content: "\f098"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 16px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-forum:before { content: "\f086"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-kb:before { content: "\f02d"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-blog:before { content: "\f044"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-arrow:before { content: "\f177"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-home:before { content: "\f015"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 16px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-check:before { content: "\f046"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 16px; padding-right: 0.5em; position: absolute; left: 10px; }
+.dark-icon.i-uncheck:before { content: "\f096"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 16px; padding-right: 0.5em; position: absolute; left: 10px; }
+
+.article h2:before { content: "\f044"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #000; font-size: 30px; padding-right: 0.5em; position: absolute; left: 20px; }
+span.forum-status:before , span.forum-topic-status:before { content: "\f152"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #898989; font-size: 29px; padding-right: 0.5em; position: absolute; left: 20px; }
+
+.light-icon.i-support:before { content: "\f1cd"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.light-icon.i-forum:before { content: "\f086"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.light-icon.i-invoice:before { content: "\f15c"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
+.light-icon.i-order:before { content: "\f291"; font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; color: #fff; font-size: 15px; padding-right: 0.5em; position: absolute; left: 10px; }
